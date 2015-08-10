@@ -1,5 +1,5 @@
 === Wp Ip Details Show ===
-Contributors: WpAJANS
+Contributors: truser
 Donate link: https://goo.gl/YTDiyS
 Tags: Ip show,widget,plugin,Wp Ip Details Show,Wp Show,WordPress
 Requires at least: 2.9
