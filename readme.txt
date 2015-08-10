@@ -1,5 +1,5 @@
 === Wp Ip Details Show ===
-Contributors: truser
+Contributors: WpAJANS
 Donate link: https://goo.gl/YTDiyS
 Tags: Ip show,widget,plugin,Wp Ip Details Show,Wp Show,WordPress
 Requires at least: 2.9
@@ -8,11 +8,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WordPress Admin Panel Comment List Ip Details Show, Information is drawn by my http://ip-api.com http: Thank http://ip-api.com.
+WordPress Admin Panel Comment List Ip Details Show, Information is drawn by my http://ip-api.com Thanks http://ip-api.com.
 
 == Description ==
 
-WordPress Admin Panel Comment List Ip Details Show, Information is drawn by my http://ip-api.com http: Thank http://ip-api.com.
+WordPress Admin Panel Comment List Ip Details Show, Information is drawn by my http://ip-api.com Thanks http://ip-api.com.
 
 == Installation ==
 
