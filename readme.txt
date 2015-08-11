@@ -12,7 +12,15 @@ WordPress Admin Panel Comment List Ip Details Show.
 
 == Description ==
 
-WordPress Admin Panel Comment List Ip Details Show, Information is drawn by my http://ip-api.com Thanks http://ip-api.com.
+WordPress Admin Panel Comment List Ip Details Show.
+Commenting plugin you people to your site
+in the
+country
+Country code
+City code
+Internet provider
+It displays information such as :)
+Thanks http://ip-api.com
 
 == Installation ==
 
